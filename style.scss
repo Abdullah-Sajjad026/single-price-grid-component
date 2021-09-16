@@ -139,6 +139,11 @@ body {
     padding: 1.5rem 0;
     text-align: center;
     background-color: hsl(71, 73%, 54%);
+    transition: all .2s;
+
+    &:hover {
+        background-color: hsl(71, 73%, 34%);
+    }
 
 }
 
@@ -158,7 +163,7 @@ body {
 
 @media screen and (max-width: 450px) {
     html {
-        font-size: 51%;
+        font-size: 52%;
     }
 
     .price-card {

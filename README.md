@@ -12,14 +12,12 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/challenge-completed-by-using-flexbox-f-7GZXn8X)
-- Live Site URL: [live site URL](https://pricegrid.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/challenge-completed-by-using-css-grid-me6DQV5_g)
+- Live Site URL: [live site URL](https://pricegridchallenge.vercel.app/)
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- CSS GRID
 
 ### Useful resources
 
